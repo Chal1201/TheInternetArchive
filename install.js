@@ -1,5 +1,5 @@
 document.getElementById('downloadXP').addEventListener('click', function() {
-    window.location.href = '/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso';
+    window.location.href = '/Microsoft Windows 3.11 (IBM OEM) (3.5-1.44mb).7z';
 });
 
 document.getElementById('downloadPi').addEventListener('click', function() {
